@@ -1,4 +1,17 @@
-# My4
+# Store 4
+
+
+Angular development environment should include the following:
+
+```txt
+Angular CLI: Version 12.0.5 or later, < 13.
+Node.js: The most recent 12.x version is recommended, < 13.
+Yarn: Version 1.15 or later.
+```
+
+# Original readme
+
+The app was begun with the name My4.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
